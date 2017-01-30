@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 13,
+    "uniqCompNum": 17,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -227,14 +227,14 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "#41a85f",
-              "border-color": "#41a85f"
+              "background-color": "#000000",
+              "border-color": "#000000"
             }
           },
           "_name": "features7",
           "_anchor": "features7-4",
           "_params": {
-            "iconsBgColor": "#41a85f",
+            "iconsBgColor": "#000000",
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
@@ -370,7 +370,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/resident-evil-revelations-2000x1125.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -378,7 +378,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.9",
+            "overlayOpacity": "0.7",
             "overlayColor": "#ccc",
             "inverse": true,
             "showTitle": true,
@@ -448,7 +448,109 @@
           "_name": "gallery2",
           "_params": {
             "paddingTop": 4,
-            "paddingBottom": 4,
+            "paddingBottom": "3",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/roger-hasbani-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/roger-hasbani-2000x2962.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tattoo-2000x2024-800x809.png",
+                "image": "@PROJECT_PATH@/assets/images/tattoo-2000x2024.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/roger-hasbani-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/roger-hasbani-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/maverick-2000x1918-800x767.jpg",
+                "image": "@PROJECT_PATH@/assets/images/maverick-2000x1918.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vintage-telvision-remade-2000x1706-800x682.png",
+                "image": "@PROJECT_PATH@/assets/images/vintage-telvision-remade-2000x1706.png",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/roger-hasbani-1-2000x1844-800x737.jpg",
+                "image": "@PROJECT_PATH@/assets/images/roger-hasbani-1-2000x1844.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wynwood-finshed-1-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wynwood-finshed-1-2000x2962.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/harmbae-2000x1823-800x729.jpg",
+                "image": "@PROJECT_PATH@/assets/images/harmbae-2000x1823.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": "2",
+            "showText": false,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-c",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
             "images": [
               {
                 "tags": "Awesome",
@@ -467,8 +569,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here",
-                "active": false
+                "caption": "Type caption here"
               },
               {
                 "tags": "Creative",
@@ -528,12 +629,12 @@
             "spacing": 0,
             "showText": false,
             "filter": false,
-            "bgColor": "fff",
+            "bgColor": "#FFFFFF",
             "filterBgColor": false,
-            "fullWidth": true,
+            "fullWidth": false,
             "showBullets": true
           },
-          "_anchor": "gallery2-c",
+          "_anchor": "gallery1-d",
           "articleLayout": false,
           "allItem": "All"
         }
