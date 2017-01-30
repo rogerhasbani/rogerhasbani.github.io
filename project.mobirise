@@ -557,8 +557,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan0001-2000x2624-800x1049.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scan0001-2000x2624.jpg",
                 "caption": "Type caption here",
                 "active": true
               },
@@ -626,7 +626,7 @@
                 "caption": "Type caption here"
               }
             ],
-            "spacing": 0,
+            "spacing": "2",
             "showText": false,
             "filter": false,
             "bgColor": "#FFFFFF",
