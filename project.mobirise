@@ -213,7 +213,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "text": "<i>Goals and Life Plan</i>"
         },
@@ -240,7 +240,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -534,7 +534,7 @@
             "spacing": "2",
             "showText": false,
             "filter": false,
-            "bgColor": "fff",
+            "bgColor": "#efefef",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
@@ -557,7 +557,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "showMeta": true
           },
           "title": "CERTIFICATIONS",
@@ -656,7 +656,7 @@
             "spacing": "2",
             "showText": false,
             "filter": false,
-            "bgColor": "#FFFFFF",
+            "bgColor": "#efefef",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
