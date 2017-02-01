@@ -441,109 +441,6 @@
           "caption": "&nbsp;<p>I was born on january 23, 2001. In Miami, Florida, In 7th grade thats when my life really began. Thats when i got into Technology and heavy gaming , from that point forward i have tried my harddest to be the best i can be. I have gotten more than &nbsp;a dozen certificates from Adobe and and other companies for Robot Engineer, Video Games Design, and &nbsp;Coding &nbsp; &nbsp;</p>"
         },
         {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery2",
-          "_params": {
-            "paddingTop": 4,
-            "paddingBottom": "3",
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/roger-hasbani-2000x2962-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/roger-hasbani-2000x2962.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tattoo-2000x2024-800x809.png",
-                "image": "@PROJECT_PATH@/assets/images/tattoo-2000x2024.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/roger-hasbani-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/roger-hasbani-2000x1333.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/maverick-2000x1918-800x767.jpg",
-                "image": "@PROJECT_PATH@/assets/images/maverick-2000x1918.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/vintage-telvision-remade-2000x1706-800x682.png",
-                "image": "@PROJECT_PATH@/assets/images/vintage-telvision-remade-2000x1706.png",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/roger-hasbani-1-2000x1844-800x737.jpg",
-                "image": "@PROJECT_PATH@/assets/images/roger-hasbani-1-2000x1844.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/wynwood-finshed-1-2000x2962-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/wynwood-finshed-1-2000x2962.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/harmbae-2000x1823-800x729.jpg",
-                "image": "@PROJECT_PATH@/assets/images/harmbae-2000x1823.jpg",
-                "caption": "Type caption here",
-                "active": false
-              }
-            ],
-            "spacing": "2",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#efefef",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
-          },
-          "_anchor": "gallery2-c",
-          "articleLayout": false,
-          "allItem": "All"
-        },
-        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -1080,7 +977,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/vintage-telvision-remade-2000x1706-800x682.png",
-                "image": "@PROJECT_PATH@/assets/images/vintage-telvision-remade-2000x170626.png",
+                "image": "@PROJECT_PATH@/assets/images/vintage-telvision-remade-2000x1706.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1257,7 +1154,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/roger-hasbani-2000x2962-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/roger-hasbani-2000x296227.jpg",
+                "image": "@PROJECT_PATH@/assets/images/roger-hasbani-2000x2962.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1277,7 +1174,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/wynwood-finshed-1-2000x2962-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/wynwood-finshed-1-2000x296228.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wynwood-finshed-1-2000x2962.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
