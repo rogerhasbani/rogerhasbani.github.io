@@ -478,6 +478,10 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #000000;
 }
+#social-buttons4-15 .mbr-section-title,
+#social-buttons4-15 .btn-social {
+  color: #fff;
+}
 #header2-3 .mbr-section-title {
   text-align: right;
 }
