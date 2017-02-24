@@ -539,7 +539,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=Xm54y82tUBY&oref=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXm54y82tUBY&has_verified=1",
+              "src": "https://www.youtube.com/watch?v=ijbGfXjph7g",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -1625,16 +1625,17 @@
                 "thumb": "@PROJECT_PATH@/assets/images/scan0007-1-2000x1519-800x607.jpg",
                 "image": "@PROJECT_PATH@/assets/images/scan0007-1-2000x1519.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/2017-01-31-2-2000x1549-800x619.png",
+                "image": "@PROJECT_PATH@/assets/images/2017-01-31-2-2000x1549.png",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
             "spacing": "4",
@@ -1770,6 +1771,16 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#000000",
+              "text-align": "center",
+              "font-size": "32px"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "header1-1e",
           "_params": {
             "parallax": true,
@@ -1792,17 +1803,7 @@
           },
           "title": "Biography",
           "text": "I was born on january 23, 2001. In Miami, Florida, In 7th grade thats when my true passion in life began. Thats when I got into Technology and heavy gaming , from that point forward I have tried my harddest to be the best I can be. I have gotten more than  a dozen certificates from Adobe and and other companies for Robot Engineer, Video Games Design, and  Coding &nbsp; &nbsp;",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-lead": {
-              "color": "#000000",
-              "text-align": "center",
-              "font-size": "32px"
-            },
-            ".mbr-section-title": {
-              "color": "#000000"
-            }
-          }
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
         }
       ]
     }
