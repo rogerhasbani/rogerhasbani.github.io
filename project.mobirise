@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Roger Hasbani.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -153,15 +153,17 @@
           "_anchor": "header1-1j",
           "_params": {
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/img-2000x1333.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/i4Mq9WzAhWU?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "overlay": true,
             "overlayOpacity": "0.4",
             "overlayColor": "#000000",
@@ -1820,13 +1822,13 @@
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/maxresdefault-2000x1125.jpg",
             "bgColor": "#000000",
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "width": 1280,
               "height": 720,
               "url": "https://www.youtube.com/embed/i4Mq9WzAhWU?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.8",
             "overlayColor": "#000000",
