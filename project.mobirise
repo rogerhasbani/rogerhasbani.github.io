@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Private Projects.html",
+    "currentPage": "Recreatetion.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 71,
+    "uniqCompNum": 78,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -115,7 +115,7 @@
               "src": "@PROJECT_PATH@/assets/images/roger-name-design2-1-288x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -126,7 +126,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bio.html\">Background</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Roger Hasbani.html#features7-4\">Goals</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPLICATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\" target=\"_blank\">Adobe Illustrator&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\" target=\"_blank\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" target=\"_blank\">123D Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Private Projects.html\" target=\"_blank\">Side Projects</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Reference</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Certifications.html\" aria-expanded=\"false\">Certification</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDtXsH_euuGpHspJgrK-SvQ\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"index.html\">Start</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bio.html\">Background</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Roger Hasbani.html#features7-4\">Goals</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPLICATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\" target=\"_blank\">Adobe Illustrator&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\" target=\"_blank\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" target=\"_blank\">123D Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Private Projects.html\" target=\"_blank\">Side Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Recreatetion.html\" target=\"_blank\">Side Projects</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Reference</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Certifications.html\" aria-expanded=\"false\">Certification</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDtXsH_euuGpHspJgrK-SvQ\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"index.html\">Start</a></li>"
         },
         {
           "_name": "footer1",
@@ -279,7 +279,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bio.html\">Background</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Roger Hasbani.html#features7-4\">Goals</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPLICATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\" target=\"_blank\">Adobe Illustrator&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\" target=\"_blank\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" target=\"_blank\">123D Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Private Projects.html\" target=\"_blank\">Side Projects</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Reference</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Certifications.html\" aria-expanded=\"false\">Certification</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDtXsH_euuGpHspJgrK-SvQ\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"index.html\">Start</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bio.html\">Background</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Roger Hasbani.html#features7-4\">Goals</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPLICATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\" target=\"_blank\">Adobe Illustrator&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\" target=\"_blank\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" target=\"_blank\">123D Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Private Projects.html\" target=\"_blank\">Side Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Recreatetion.html\" target=\"_blank\">Side Projects</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Reference</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Certifications.html\" aria-expanded=\"false\">Certification</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDtXsH_euuGpHspJgrK-SvQ\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"index.html\">Start</a></li>"
         },
         {
           "_name": "footer1",
@@ -513,7 +513,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bio.html\">Background</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Roger Hasbani.html#features7-4\">Goals</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPLICATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\" target=\"_blank\">Adobe Illustrator&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\" target=\"_blank\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" target=\"_blank\">123D Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Private Projects.html\" target=\"_blank\">Side Projects</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Reference</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Certifications.html\" aria-expanded=\"false\">Certification</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDtXsH_euuGpHspJgrK-SvQ\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"index.html\">Start</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bio.html\">Background</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Roger Hasbani.html#features7-4\">Goals</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPLICATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\" target=\"_blank\">Adobe Illustrator&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\" target=\"_blank\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" target=\"_blank\">123D Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Private Projects.html\" target=\"_blank\">Side Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Recreatetion.html\" target=\"_blank\">Side Projects</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Reference</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Certifications.html\" aria-expanded=\"false\">Certification</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDtXsH_euuGpHspJgrK-SvQ\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"index.html\">Start</a></li>"
         },
         {
           "_name": "footer1",
@@ -798,7 +798,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bio.html\">Background</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Roger Hasbani.html#features7-4\">Goals</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPLICATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\" target=\"_blank\">Adobe Illustrator&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\" target=\"_blank\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" target=\"_blank\">123D Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Private Projects.html\" target=\"_blank\">Side Projects</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Reference</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Certifications.html\" aria-expanded=\"false\">Certification</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDtXsH_euuGpHspJgrK-SvQ\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"index.html\">Start</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bio.html\">Background</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Roger Hasbani.html#features7-4\">Goals</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPLICATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\" target=\"_blank\">Adobe Illustrator&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\" target=\"_blank\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" target=\"_blank\">123D Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Private Projects.html\" target=\"_blank\">Side Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Recreatetion.html\" target=\"_blank\">Side Projects</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Reference</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Certifications.html\" aria-expanded=\"false\">Certification</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDtXsH_euuGpHspJgrK-SvQ\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"index.html\">Start</a></li>"
         },
         {
           "_name": "footer1",
@@ -1059,7 +1059,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bio.html\">Background</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Roger Hasbani.html#features7-4\">Goals</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPLICATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\" target=\"_blank\">Adobe Illustrator&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\" target=\"_blank\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" target=\"_blank\">123D Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Private Projects.html\" target=\"_blank\">Side Projects</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Reference</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Certifications.html\" aria-expanded=\"false\">Certification</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDtXsH_euuGpHspJgrK-SvQ\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"index.html\">Start</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bio.html\">Background</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Roger Hasbani.html#features7-4\">Goals</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPLICATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\" target=\"_blank\">Adobe Illustrator&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\" target=\"_blank\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" target=\"_blank\">123D Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Private Projects.html\" target=\"_blank\">Side Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Recreatetion.html\" target=\"_blank\">Side Projects</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Reference</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Certifications.html\" aria-expanded=\"false\">Certification</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDtXsH_euuGpHspJgrK-SvQ\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"index.html\">Start</a></li>"
         },
         {
           "_name": "footer1",
@@ -1364,7 +1364,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bio.html\">Background</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Roger Hasbani.html#features7-4\">Goals</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPLICATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\" target=\"_blank\">Adobe Illustrator&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\" target=\"_blank\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" target=\"_blank\">123D Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Private Projects.html\" target=\"_blank\">Side Projects</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Reference</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Certifications.html\" aria-expanded=\"false\">Certification</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDtXsH_euuGpHspJgrK-SvQ\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"index.html\">Start</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bio.html\">Background</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Roger Hasbani.html#features7-4\">Goals</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPLICATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\" target=\"_blank\">Adobe Illustrator&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\" target=\"_blank\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" target=\"_blank\">123D Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Private Projects.html\" target=\"_blank\">Side Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Recreatetion.html\" target=\"_blank\">Side Projects</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Reference</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Certifications.html\" aria-expanded=\"false\">Certification</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDtXsH_euuGpHspJgrK-SvQ\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"index.html\">Start</a></li>"
         },
         {
           "_styles": {
@@ -1611,7 +1611,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bio.html\">Background</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Roger Hasbani.html#features7-4\">Goals</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPLICATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\" target=\"_blank\">Adobe Illustrator&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\" target=\"_blank\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" target=\"_blank\">123D Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Private Projects.html\" target=\"_blank\">Side Projects</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Reference</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Certifications.html\" aria-expanded=\"false\">Certification</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDtXsH_euuGpHspJgrK-SvQ\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"index.html\">Start</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bio.html\">Background</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Roger Hasbani.html#features7-4\">Goals</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPLICATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\" target=\"_blank\">Adobe Illustrator&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\" target=\"_blank\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" target=\"_blank\">123D Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Private Projects.html\" target=\"_blank\">Side Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Recreatetion.html\" target=\"_blank\">Side Projects</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Reference</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Certifications.html\" aria-expanded=\"false\">Certification</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDtXsH_euuGpHspJgrK-SvQ\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"index.html\">Start</a></li>"
         },
         {
           "_name": "footer1",
@@ -1776,7 +1776,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bio.html\">Background</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Roger Hasbani.html#features7-4\">Goals</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPLICATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\" target=\"_blank\">Adobe Illustrator&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\" target=\"_blank\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" target=\"_blank\">123D Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Private Projects.html\" target=\"_blank\">Side Projects</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Reference</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Certifications.html\" aria-expanded=\"false\">Certification</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDtXsH_euuGpHspJgrK-SvQ\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"index.html\">Start</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bio.html\">Background</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Roger Hasbani.html#features7-4\">Goals</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPLICATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\" target=\"_blank\">Adobe Illustrator&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\" target=\"_blank\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" target=\"_blank\">123D Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Private Projects.html\" target=\"_blank\">Side Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Recreatetion.html\" target=\"_blank\">Side Projects</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Reference</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Certifications.html\" aria-expanded=\"false\">Certification</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDtXsH_euuGpHspJgrK-SvQ\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"index.html\">Start</a></li>"
         },
         {
           "_name": "footer1",
@@ -2088,6 +2088,258 @@
           },
           "text": "FOLLOW US",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+        }
+      ]
+    },
+    "Recreatetion.html": {
+      "settings": {
+        "title": "Website Builder Title",
+        "meta_descr": "Website Builder Description"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-25",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": false,
+            "showText": false,
+            "showTitle": false
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "PRE MADE BLOCKS"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "font-family": "'Bitter', serif"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-1z",
+          "_params": {
+            "bgColor": "#efefef",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Bitter",
+              "url": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "css": "'Bitter', serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/roger-name-design2-1-288x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Bio.html\">Background</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Roger Hasbani.html#features7-4\">Goals</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPLICATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\" target=\"_blank\">Adobe Illustrator&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\" target=\"_blank\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\" target=\"_blank\">123D Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Private Projects.html\" target=\"_blank\">Side Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Recreatetion.html\" target=\"_blank\">Side Projects</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Reference</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Certifications.html\" aria-expanded=\"false\">Certification</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDtXsH_euuGpHspJgrK-SvQ\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"index.html\">Start</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-20",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 RogerH."
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/snap-shot-2-2000x1616-800x646.jpg",
+                "image": "@PROJECT_PATH@/assets/images/snap-shot-2-2000x1616.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/snap-shot-3-2000x1616-800x646.jpg",
+                "image": "@PROJECT_PATH@/assets/images/snap-shot-3-2000x1616.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/snap-shot-4-2000x1616-800x646.jpg",
+                "image": "@PROJECT_PATH@/assets/images/snap-shot-4-2000x1616.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/snap-shot-5-2000x1616-800x646.jpg",
+                "image": "@PROJECT_PATH@/assets/images/snap-shot-5-2000x1616.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/snap-shot-6-2000x1616-800x646.png",
+                "image": "@PROJECT_PATH@/assets/images/snap-shot-6-2000x1616.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/snap-shot-7-2000x1616-800x646.png",
+                "image": "@PROJECT_PATH@/assets/images/snap-shot-7-2000x1616.png",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-24",
+          "articleLayout": false,
+          "allItem": "All"
         }
       ]
     }
