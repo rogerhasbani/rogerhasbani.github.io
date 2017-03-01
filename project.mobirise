@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Roger Hasbani.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1815,10 +1815,10 @@
           "_params": {
             "imageSize": 50,
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/maxresdefault-2000x1125.jpg",
+            "bgImageRadio": true,
+            "bgImage": "",
             "bgColor": "#000000",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "width": 1280,
               "height": 720,
