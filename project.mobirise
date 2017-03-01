@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "123d.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -143,7 +143,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2017 RogerH."
         },
         {
           "_tags": [
@@ -296,7 +296,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2017 RogerH."
         },
         {
           "_inherit": "msg-box5",
@@ -530,7 +530,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2017 RogerH."
         },
         {
           "_inherit": "msg-box5",
@@ -815,7 +815,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2017 RogerH."
         },
         {
           "_inherit": "msg-box5",
@@ -1076,7 +1076,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2017 RogerH."
         },
         {
           "_inherit": "msg-box5",
@@ -1265,7 +1265,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2017 RogerH."
         },
         {
           "_styles": {
@@ -1628,7 +1628,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2017 RogerH."
         },
         {
           "_tags": [
@@ -1793,7 +1793,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2017 RogerH."
         },
         {
           "_tags": [
