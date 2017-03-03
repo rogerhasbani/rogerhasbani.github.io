@@ -1,7 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
 
 
 
@@ -480,6 +483,13 @@ h6,
 #menu-1g .close-icon::before,
 #menu-1g .close-icon::after {
   background-color: #000000;
+}
+#contacts4-19 STRONG {
+  font-size: 17px;
+  font-family: 'Ubuntu', sans-serif;
+}
+#contacts4-19 P {
+  font-family: 'Montserrat', sans-serif;
 }
 
 #menu-i .hide-buttons .nav-btn {
@@ -998,12 +1008,9 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #000000;
 }
-#header2-3 .mbr-section-title {
-  text-align: right;
-  font-family: 'Bitter', serif;
-}
-#header2-3 .btn {
-  font-family: 'Bitter', serif;
+#header3-26 .mbr-section-title,
+#header3-26 .mbr-section-subtitle {
+  text-align: center;
 }
 #content1-5 I {
   font-size: 48px;
@@ -1015,9 +1022,16 @@ h6,
   background-color: #41a85f;
   border-color: #41a85f;
 }
-#social-buttons4-15 .mbr-section-title,
-#social-buttons4-15 .btn-social {
-  color: #fff;
+#contacts4-19 STRONG {
+  font-size: 17px;
+  font-family: 'Ubuntu', sans-serif;
+}
+#contacts4-19 P {
+  font-family: 'Montserrat', sans-serif;
+}
+#header3-27 .mbr-section-title,
+#header3-27 .mbr-section-subtitle {
+  text-align: center;
 }
 
 #menu-1z .hide-buttons .nav-btn {
