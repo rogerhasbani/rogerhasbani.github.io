@@ -861,85 +861,13 @@ h6,
   text-align: center;
 }
 
-#menu-1a .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-1a .navbar-caption {
-  color: #ffffff;
-}
-#menu-1a .navbar-toggler {
-  color: #000000;
-}
-#menu-1a .link,
-#menu-1a .dropdown-item {
-  color: #000000;
-  font-family: 'Bitter', serif;
-}
-#menu-1a .link {
-  font-size: 1rem;
-}
-#menu-1a .dropdown-item,
-#menu-1a .nav-dropdown-sm .link {
-  font-size: 1.083rem;
-}
-#menu-1a .link:hover,
-#menu-1a .dropdown-item:hover,
-#menu-1a .link:focus,
-#menu-1a .dropdown-item:focus {
-  color: #c0a375;
-}
-#menu-1a .link[aria-expanded="true"],
-#menu-1a .dropdown-menu {
-  background: #d6d6d6;
-}
-#menu-1a .nav-dropdown-sm .link:focus,
-#menu-1a .nav-dropdown-sm .link:hover,
-#menu-1a .nav-dropdown-sm .dropdown-item:focus,
-#menu-1a .nav-dropdown-sm .dropdown-item:hover {
-  background: #e7e7e7!important;
-}
-#menu-1a .navbar,
-#menu-1a .nav-dropdown-sm,
-#menu-1a .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-1a .nav-dropdown-sm .dropdown-menu {
-  background: #efefef;
-}
-#menu-1a .bg-color.transparent .link {
-  color: #000000;
-  transition: none;
-}
-#menu-1a .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-1a .bg-color.transparent.opened .link:hover,
-#menu-1a .bg-color.transparent.opened .link:focus {
-  color: #c0a375;
-}
-#menu-1a .link[aria-expanded="true"],
-#menu-1a .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
-}
-#menu-1a.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#menu-1a .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#menu-1a .close-icon::before,
-#menu-1a .close-icon::after {
-  background-color: #000000;
-}
-#header1-1e .mbr-section-lead {
-  color: #000000;
-  text-align: center;
+
+
+#header1-2b .mbr-section-lead B {
   font-size: 32px;
+  text-align: left;
+  color: #ffffff;
 }
-#header1-1e .mbr-section-title {
-  color: #000000;
-}
-
-
-
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1021,6 +949,9 @@ h6,
 #features7-4 .iconbox {
   background-color: #41a85f;
   border-color: #41a85f;
+}
+#features7-4 P {
+  color: #000000;
 }
 #contacts4-19 STRONG {
   font-size: 17px;
