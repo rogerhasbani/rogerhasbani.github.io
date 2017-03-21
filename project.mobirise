@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Recreatetion.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -2318,16 +2318,17 @@
                 "thumb": "@PROJECT_PATH@/assets/images/picasso-la-muse-2000x1616-800x646.jpg",
                 "image": "@PROJECT_PATH@/assets/images/picasso-la-muse-2000x1616.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/roger-hasbani-painting-back-up-2000x1616-800x646.png",
+                "image": "@PROJECT_PATH@/assets/images/roger-hasbani-painting-back-up-2000x1616.png",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
             "spacing": 1,
