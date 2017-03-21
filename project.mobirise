@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Roger Hasbani.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -153,11 +153,11 @@
           "_anchor": "header1-1j",
           "_params": {
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/img-2000x1333.png",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
+            "bgColor": "#41a85f",
+            "bgColorRadio": true,
             "bgVideo": {
               "width": 1280,
               "height": 720,
@@ -190,8 +190,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/official-og-image-1-2000x1050-800x420.jpg",
-                "image": "@PROJECT_PATH@/assets/images/official-og-image-1-2000x1050.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-2000x1600-800x640.png",
+                "image": "@PROJECT_PATH@/assets/images/untitled-2000x1600.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -200,64 +200,70 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/palmtree-shutterstock-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/palmtree-shutterstock-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-1-2000x1600-800x640.png",
+                "image": "@PROJECT_PATH@/assets/images/untitled-1-2000x1600.png",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-2-2000x1600-800x640.png",
+                "image": "@PROJECT_PATH@/assets/images/untitled-2-2000x1600.png",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-3-2000x1600-800x640.png",
+                "image": "@PROJECT_PATH@/assets/images/untitled-3-2000x1600.png",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-4-2000x1600-800x640.png",
+                "image": "@PROJECT_PATH@/assets/images/untitled-4-2000x1600.png",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-5-2000x1600-800x640.png",
+                "image": "@PROJECT_PATH@/assets/images/untitled-5-2000x1600.png",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-2000x1513-800x605.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-2000x1513.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/gw-2000x1513-800x605.png",
+                "image": "@PROJECT_PATH@/assets/images/gw-2000x1513.png",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
             "spacing": "0",
