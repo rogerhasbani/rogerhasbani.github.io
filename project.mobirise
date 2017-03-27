@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Recreatetion.html",
+    "currentPage": "Private Projects.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,8 @@
     },
     "versionFirst": "3.10.4",
     "uniqCompNum": 86,
-    "versionPublish": "3.11.1"
+    "versionPublish": "3.11.1",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -32,6 +33,23 @@
         "order": 1
       },
       "components": [
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-1h",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 RogerH."
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -90,8 +108,11 @@
               "background-color": "#000000"
             }
           },
+          "_tags": [
+            "Theme"
+          ],
           "_name": "menu",
-          "_anchor": "menu-1g",
+          "_anchor": "menu-1z",
           "_params": {
             "bgColor": "#efefef",
             "fontSize": "1",
@@ -127,23 +148,6 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Roger Hasbani.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">GALLERY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\">Adobe Illustrator&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123d.html\">123D Design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Private Projects.html\">Private Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Recreatetion.html\">Recreation Painting<br><br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Reference</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">4</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Certifications.html\" aria-expanded=\"false\">Certification</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDtXsH_euuGpHspJgrK-SvQ\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCDtXsH_euuGpHspJgrK-SvQ\" aria-expanded=\"false\" target=\"_blank\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"index.html\">Start</a></li>"
-        },
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-1h",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2017 RogerH."
         },
         {
           "_tags": [
@@ -190,8 +194,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/untitled-2000x1600-800x640.png",
-                "image": "@PROJECT_PATH@/assets/images/untitled-2000x1600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/21-pilots-2000x1428-800x571.png",
+                "image": "@PROJECT_PATH@/assets/images/21-pilots-2000x1428.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -200,8 +204,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/untitled-1-2000x1600-800x640.png",
-                "image": "@PROJECT_PATH@/assets/images/untitled-1-2000x1600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/lit-2000x1428-800x571.png",
+                "image": "@PROJECT_PATH@/assets/images/lit-2000x1428.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -210,8 +214,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/untitled-2-2000x1600-800x640.png",
-                "image": "@PROJECT_PATH@/assets/images/untitled-2-2000x1600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/palm-2000x1428-800x571.png",
+                "image": "@PROJECT_PATH@/assets/images/palm-2000x1428.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -220,8 +224,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/untitled-3-2000x1600-800x640.png",
-                "image": "@PROJECT_PATH@/assets/images/untitled-3-2000x1600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/doggo-2000x1428-800x571.png",
+                "image": "@PROJECT_PATH@/assets/images/doggo-2000x1428.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -230,8 +234,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/untitled-4-2000x1600-800x640.png",
-                "image": "@PROJECT_PATH@/assets/images/untitled-4-2000x1600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/here-2000x1428-800x571.png",
+                "image": "@PROJECT_PATH@/assets/images/here-2000x1428.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -240,8 +244,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/untitled-5-2000x1600-800x640.png",
-                "image": "@PROJECT_PATH@/assets/images/untitled-5-2000x1600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/3d-2000x1428-800x571.png",
+                "image": "@PROJECT_PATH@/assets/images/3d-2000x1428.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -250,8 +254,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/untitled-2000x1513-800x605.jpg",
-                "image": "@PROJECT_PATH@/assets/images/untitled-2000x1513.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/posters-2000x1428-800x571.png",
+                "image": "@PROJECT_PATH@/assets/images/posters-2000x1428.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -260,8 +264,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gw-2000x1513-800x605.png",
-                "image": "@PROJECT_PATH@/assets/images/gw-2000x1513.png",
+                "thumb": "@PROJECT_PATH@/assets/images/synth-2000x1428-800x571.png",
+                "image": "@PROJECT_PATH@/assets/images/synth-2000x1428.png",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -474,12 +478,12 @@
           "_name": "msg-box6",
           "_anchor": "msg-box6-1x",
           "_params": {
-            "imageSize": "26",
+            "imageSize": "23",
             "paddingTop": "3",
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/e72b6fce8ded0e65323e1cfd89d32831-2000x1388.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/l-blue-2000x1125.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -713,7 +717,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/orange-geometric-low-poly-vector-background-2000x1400.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/orange-2000x1125.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -998,7 +1002,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/sea-2000x1269.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/fc602aac6ab442da2c94436b2e6ed068-2000x1125.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1256,10 +1260,10 @@
           "_params": {
             "imageSize": "25",
             "paddingTop": "3",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/024726p7zyhuuzsb37ijc4-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/c0c8dc4df44c5374c8a07b9469833d86-2000x1000.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1280,7 +1284,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/untitled-1400x1400.png",
+              "src": "@PROJECT_PATH@/assets/images/gooo-1400x1400.png",
               "link": "",
               "alt": "",
               "title": "",
