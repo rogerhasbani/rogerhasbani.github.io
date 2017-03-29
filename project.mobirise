@@ -157,11 +157,11 @@
           "_anchor": "header1-1j",
           "_params": {
             "parallax": true,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-2000x1333.png",
+            "bgImage": "",
             "bgColor": "#41a85f",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "width": 1280,
               "height": 720,
