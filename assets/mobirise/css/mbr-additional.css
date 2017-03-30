@@ -953,6 +953,12 @@ h6,
 #features7-4 P {
   color: #000000;
 }
+#header6-2e .mbr-section-title {
+  color: #28262b;
+}
+#header6-2e .mbr-section-text {
+  color: #565656;
+}
 #contacts4-19 STRONG {
   font-size: 17px;
   font-family: 'Ubuntu', sans-serif;
