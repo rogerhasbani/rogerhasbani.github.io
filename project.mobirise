@@ -311,7 +311,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/3d-2000x1428-800x571.png",
                 "image": "@PROJECT_PATH@/assets/images/3d-2000x1428.png",
-                "caption": "3D Module of Classroom",
+                "caption": "3D Classroom Module",
                 "active": false
               },
               {
