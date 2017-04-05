@@ -366,7 +366,7 @@
           "_anchor": "contacts4-19",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/8c3cc1d5271a13a40c65c76b145473d7-2000x1250.png",
@@ -2096,7 +2096,7 @@
           "_anchor": "contacts4-19",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/8c3cc1d5271a13a40c65c76b145473d7-2000x1250.png",
