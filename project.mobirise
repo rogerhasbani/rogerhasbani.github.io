@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Roger Hasbani.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
   "pages": {
     "index.html": {
       "settings": {
-        "title": "Website Maker Title",
+        "title": "Roger Hasbani ",
         "meta_descr": "Website Maker Description",
         "order": 1
       },
@@ -412,7 +412,7 @@
     },
     "123d.html": {
       "settings": {
-        "title": "Web Site Builder Title",
+        "title": "123d Design ",
         "meta_descr": "Web Site Builder Description",
         "order": 3
       },
@@ -646,7 +646,7 @@
     },
     "Illustrator.html": {
       "settings": {
-        "title": "Website Maker Title",
+        "title": "Illustrator ",
         "meta_descr": "Website Maker Description",
         "order": 4
       },
@@ -931,7 +931,7 @@
     },
     "Photoshop.html": {
       "settings": {
-        "title": "Website Generator Title",
+        "title": "Photoshop",
         "meta_descr": "Website Generator Description",
         "order": 5
       },
@@ -1194,7 +1194,8 @@
     },
     "Private Projects.html": {
       "settings": {
-        "order": 6
+        "order": 6,
+        "title": "Personal Projects"
       },
       "components": [
         {
@@ -1477,7 +1478,7 @@
     },
     "Certifications.html": {
       "settings": {
-        "title": "Site Generator Title",
+        "title": "Certifications/ Certificates",
         "meta_descr": "Site Generator Description",
         "order": 8
       },
@@ -1745,7 +1746,7 @@
     "Roger Hasbani.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Roger Hasbani",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -2162,7 +2163,7 @@
     },
     "Recreatetion.html": {
       "settings": {
-        "title": "Website Builder Title",
+        "title": "Picasso Recreatetion",
         "meta_descr": "Website Builder Description"
       },
       "components": [
