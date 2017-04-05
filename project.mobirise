@@ -156,7 +156,10 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#41a85f"
+              "color": "#000000",
+              "text-align": "center",
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
             }
           },
           "_anchor": "header1-2f",
@@ -164,7 +167,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/p730944803-2000x1334.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/lagos-de-centroamerica-2000x1125.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {

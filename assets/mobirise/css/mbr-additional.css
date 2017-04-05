@@ -1,8 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -485,7 +487,9 @@ h6,
   background-color: #000000;
 }
 #header1-2f .mbr-section-title {
-  color: #41a85f;
+  color: #000000;
+  text-align: center;
+  font-family: 'Droid Serif', serif;
 }
 #msg-box4-2e H3 {
   text-align: center;
