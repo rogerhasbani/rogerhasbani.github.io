@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Private Projects.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1352,7 +1352,7 @@
             "paddingBottom": "0",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/addictedtoludus-metalgear-2000x1382.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/28181dfafd53fb3f2e8debb98565dbd1-2000x1137.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
