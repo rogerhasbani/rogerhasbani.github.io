@@ -793,6 +793,9 @@ h6,
 #msg-box6-1q .lead p {
   color: #fff;
 }
+#msg-box6-1q H3 {
+  color: #000000;
+}
 
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
