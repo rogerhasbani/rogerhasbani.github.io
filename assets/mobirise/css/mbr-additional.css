@@ -494,9 +494,6 @@ h6,
 #msg-box4-2e H3 {
   text-align: center;
 }
-#msg-box4-2h H3 {
-  font-size: 72px;
-}
 #contacts4-19 STRONG {
   font-size: 17px;
   font-family: 'Ubuntu', sans-serif;
@@ -795,6 +792,9 @@ h6,
 #msg-box6-1q .mbr-section-title,
 #msg-box6-1q .lead p {
   color: #fff;
+}
+#msg-box6-1q H3 {
+  color: #000000;
 }
 
 #menu-0 .hide-buttons .nav-btn {
