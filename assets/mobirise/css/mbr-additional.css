@@ -736,16 +736,16 @@ h6,
 #menu-p .close-icon::after {
   background-color: #000000;
 }
+#msg-box6-1y .mbr-section-title,
+#msg-box6-1y .lead p {
+  color: #fff;
+}
 #contacts4-19 STRONG {
   font-size: 17px;
   font-family: 'Ubuntu', sans-serif;
 }
 #contacts4-19 P {
   font-family: 'Montserrat', sans-serif;
-}
-#msg-box6-1y .mbr-section-title,
-#msg-box6-1y .lead p {
-  color: #fff;
 }
 
 
@@ -818,19 +818,19 @@ h6,
 #menu-s .close-icon::after {
   background-color: #000000;
 }
-#contacts4-19 STRONG {
-  font-size: 17px;
-  font-family: 'Ubuntu', sans-serif;
-}
-#contacts4-19 P {
-  font-family: 'Montserrat', sans-serif;
-}
 #msg-box6-1q .mbr-section-title,
 #msg-box6-1q .lead p {
   color: #fff;
 }
 #msg-box6-1q H3 {
   color: #000000;
+}
+#contacts4-19 STRONG {
+  font-size: 17px;
+  font-family: 'Ubuntu', sans-serif;
+}
+#contacts4-19 P {
+  font-family: 'Montserrat', sans-serif;
 }
 
 
