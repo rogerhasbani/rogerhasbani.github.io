@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Private Projects.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -277,7 +277,7 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/20160601-1-1400x787.jpg",
-              "link": "https://www.youtube.com/watch?v=KplbiEd9zQM&feature=youtu.be",
+              "link": "https://www.youtube.com/watch?v=_32TJnCtAy8",
               "alt": "",
               "title": "",
               "linkInNewWindow": true
